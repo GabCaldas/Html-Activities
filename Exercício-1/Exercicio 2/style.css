@@ -1,0 +1,96 @@
+.cadastro {
+    width: 500px;
+    height: 400px;
+    background-color: #edeae3;
+    padding: 20px;
+    border-top: 25px solid#0d6da2;
+    border-bottom: 5px solid #0d6da2;
+    border-right: 5px solid #0d6da2;
+    border-left: 5px solid#0d6da2;
+    width: 700px;
+}
+
+
+.elementolista {
+    padding-right: 40px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+}
+
+.elemento-tabela1 {
+    border: 1px solid black;
+    border-right: 0px;
+    border-bottom: 0px;
+    padding: 10px;
+    width: 1000px;
+    margin: 0px;
+    position: relative;
+    left: 4px;
+}
+
+.elemento-tabela2 {
+    border: 1px solid black;
+    border-right: 0px;
+    border-bottom: 0px;
+    padding: 10px;
+    width: 1000px;
+    margin: 0px;
+    position: relative;
+    left: 2px;
+}
+
+
+.elemento-tabela3 {
+    border: 1px solid black;
+    border-bottom: 0px;
+    padding: 10px;
+    width: 1000px;
+    margin: 0px;
+    position: relative;
+
+}
+
+
+
+.categorias-tabela {
+    background-color: #cccccc;
+    margin: 0px;
+
+}
+
+.tabela {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo-tabela1 {
+    border: 1px solid black;
+    padding: 8px;
+    bottom: 1.5px;
+    position: relative;
+    border-right: 0px;
+    left: 4px;
+
+}
+
+.conteudo-tabela2 {
+    border: 1px solid black;
+    bottom: 1.5px;
+    padding: 8px;
+    position: relative;
+    border-right: 0px;
+    left: 2px;
+}
+
+
+
+
+.conteudo-tabela3 {
+    position: relative;
+    border: 1px solid black;
+    bottom: 1.5px;
+    padding: 8px;
+
+}
