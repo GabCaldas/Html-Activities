@@ -1,0 +1,109 @@
+.starbucks-logo {
+    height: 100px;
+    width: 100px;
+    padding-top: 20px;
+}
+
+
+body {
+    background-color: #005431;
+}
+
+h1 {
+    background-color: green;
+
+    width: 500px;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Glee Finder', sans-serif;
+}
+
+.container {
+    width: fit-content;
+    margin: 0 auto;
+    background-color: white;
+    border: 3px solid black;
+}
+
+.cafe {
+    border: 3px solid black;
+    padding: 5px;
+}
+
+.cafe1 {
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 5px;
+}
+
+.info-cafe {
+    font-family: 'OPTINaval', sans-serif;
+
+}
+
+.container-container {
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+
+
+
+/* CSS */
+.button-3 {
+    appearance: none;
+    background-color: #005431;
+    border: 1px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 6px 16px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+    box-shadow: none;
+    outline: none;
+}
+
+.button-3:hover {
+    background-color: #2c974b;
+}
+
+.button-3:focus {
+    box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+    outline: none;
+}
+
+.button-3:disabled {
+    background-color: #94d3a2;
+    border-color: rgba(27, 31, 35, .1);
+    color: rgba(255, 255, 255, .8);
+    cursor: default;
+}
+
+.button-3:active {
+    background-color: #298e46;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+.preço {
+    display: block;
+    padding: 10px;
+}
